@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @miss-tearious
+- 👋 Hi, I’m @aria-rw
 - 👀 Physics undergrad
-- 🌱 Bad programmer lol 
+- 🌱 attempting to be a good programmer
 
 
 <!---
